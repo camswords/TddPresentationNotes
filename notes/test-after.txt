@@ -2,8 +2,11 @@
 time to working software (feedback): slow
     write code, write test, retrofit code to suit test.
 
+repeatable
+
 fear of change: highish
     some confidence, can change with less fear
+    hard to write, hence we dont write a lot
 
 on finding an error, size of search space: largish
     maybe some happy path conditions are tested

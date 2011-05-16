@@ -4,7 +4,9 @@ Kent Beck
     "Clean code that works"
 
 
-theme: working software
+theme:
+    http://www.osnews.com/images/comics/wtfm.jpg
+    working software (behave as expected)
 
 Prerequisites (nice to have)
     Alistair's Presentation?
@@ -31,5 +33,5 @@ Lets talk about Johnson
 project: Retail Banking facilities to online customers
         open account
         deposit money
-        show receipt to customer
+        show deposit receipt to customer
 

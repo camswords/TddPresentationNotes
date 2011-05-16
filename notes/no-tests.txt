@@ -2,19 +2,26 @@
 time to working software (feedback): really slow
     build build build.....  la la la... does it work?
 
+    (really slow every time: not repeatable)
+
+do we have working software?
+
 is possible to write clean, working software without tests
     software still gets tested
         by your testing team ($$)
         by your user
 
 
-fear of change: high
-    little to no confidence
+slow feedback loop
+    -> what has my change affected?
+        -> change: high risk, doesnt happen.
+            -> change doesnt occur.
 
+    over time understanding changes
+        domain, problem
 
+    -> WTF.
 
-fundamental problem: when you change one piece of code, you don't know what you have affected.
-    tests are indicators that something has changed.
 
 
 predictability
@@ -23,5 +30,15 @@ predictability
 
     why is one predictable, one not?
 
+    how could we have made this more predictable?
+
+defect in prod
+    deposited amount printed out incorrectly
+
     the search space
         why we use the debugger when we dont have tests
+
+
+johnson:
+    tests are change indicators
+    predictability
